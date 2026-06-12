@@ -1,15 +1,9 @@
 [
-  {
-    "name": "Macintosh HD",
-    "icon": "drive",
-    "kind": "disk",
-    "format": "Mac OS Standard",
-    "capacity": "3.99 GB",
-    "available": "3.14 GB",
-    "used": "852.6 MB on disk (850,654,567 bytes), for 557 items",
-    "where": "Macintosh HD, internal drive",
-    "action": "window:macfs.html"
-  },
+{
+  "name": "Macintosh HD",
+  "type": "folder",
+  "action": "window.about.html"
+},
   {
     "name": "Example Folder",
     "kind": "folder",
