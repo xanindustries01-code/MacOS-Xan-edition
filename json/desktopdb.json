@@ -8,7 +8,7 @@
     "available": "3.14 GB",
     "used": "852.6 MB on disk (850,654,567 bytes), for 557 items",
     "where": "Macintosh HD, internal drive",
-    "action": "alert::access-denied"
+    "action": "window:macfs.html"
   },
   {
     "name": "Example Folder",
