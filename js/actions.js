@@ -319,6 +319,6 @@ const Actions = {
     },
     /* Shutdown the website */
     "shutdown": function () {
-        window.location.href = SETTINGS_SHUTDOWN_URL;
+        window.location.href = about:blank;
     }
 };
