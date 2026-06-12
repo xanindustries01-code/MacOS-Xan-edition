@@ -15,31 +15,7 @@
     "kind": "folder",
     "size": 100,
     "contents": [
-      {
-        "name": "Example Text.txt",
-        "kind": "document",
-        "size": 201,
-        "url": "files/example.txt"
-      },
-      {
-        "name": "hamster.gif",
-        "kind": "picture",
-        "size": 5242,
-        "url": "files/hamster.gif"
-      },
-      {
-        "name": "baby.mp4",
-        "kind": "movie",
-        "size": 1337,
-        "url": "files/baby.mp4"
-      },
-      {
-        "name": "download.sit",
-        "kind": "download",
-        "icon": "stuffit-archive",
-        "size": 100,
-        "url": "files/download.sit"
-      }
+    
     ]
   },
   {
