@@ -35,6 +35,18 @@
     "position": "left-01"
   },
   {
+    "id": "MC1",
+    "name": "Minecraft 2.4.0",
+    "kind": "application",
+    "icon": "apps/simpletext",
+    "alias": true,
+    "created": "May 17, 2009",
+    "modified": "December 22, 2023",
+    "size": 120396,
+    "version": "2.4.0, Copyright Mojang, Inc. 2009-2026",
+    "position": "left-02"
+  },
+  {
     "id": "simpletext",
     "name": "SimpleText",
     "kind": "application",
